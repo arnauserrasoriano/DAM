@@ -1,4 +1,4 @@
-package Exercicis_Classe;
+package Exercicis_Github;
 
 import java.util.Scanner;
 import java.util.*;
