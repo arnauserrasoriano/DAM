@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4e0dc4b-8ba2-459d-aff4-ab668a80a5f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicis_Github/exercici_string4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicis_Github/exercici_strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicis_Github/exercici_strings1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicis_Github/exercici_strings2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicis_Github/exercici_strings5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exercicis_Github/exercicis_strings3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Problema2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Problema3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Problema4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Problema5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Problema6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Problema7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Problema8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Problema9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Vectors_llistes/Problema1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Vectors_llistes/vecto_problema1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercicis_classe/Vectors_llistes/vecto_problema2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/joel/exercici6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-25/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-25/lib/src.zip!/java.base/java/util/Scanner.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="32rhGBJbUDGmp6oC6lGUE4p1b0c" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EstructuraCondicional.executor": "Run",
+    "Application.Exercicis_Classe.Problema_bucles1.executor": "Run",
+    "Application.HolaUser.executor": "Run",
+    "Application.Lectura2.executor": "Run",
+    "Application.Lectura2025.executor": "Run",
+    "Application.NomVariable.executor": "Run",
+    "Application.Operadors.executor": "Run",
+    "Application.Porblema_bucles1.executor": "Run",
+    "Application.PrimerPrograma.executor": "Run",
+    "Application.Problema1.executor": "Run",
+    "Application.Problema2.executor": "Run",
+    "Application.Problema3.executor": "Run",
+    "Application.Problema4.executor": "Run",
+    "Application.Problema5.executor": "Run",
+    "Application.Problema6.executor": "Run",
+    "Application.Problema8.executor": "Run",
+    "Application.Problema9.executor": "Run",
+    "Application.Problema_b.executor": "Run",
+    "Application.Problema_bucle1_1.executor": "Run",
+    "Application.Problema_bucles1 (1).executor": "Run",
+    "Application.Problema_bucles1.executor": "Run",
+    "Application.Problema_bucles2.executor": "Run",
+    "Application.Problema_bucles3.executor": "Run",
+    "Application.Problema_bucles4.executor": "Run",
+    "Application.Problema_bucles5.executor": "Run",
+    "Application.Problema_bucles6t.executor": "Run",
+    "Application.Problema_bucles7.executor": "Run",
+    "Application.Problema_bucles8t.executor": "Run",
+    "Application.Segon.executor": "Run",
+    "Application.exercici1_1.executor": "Run",
+    "Application.exercici3.executor": "Run",
+    "Application.exercici4.executor": "Run",
+    "Application.exercici6.executor": "Run",
+    "Application.exercici_ifelse.executor": "Run",
+    "Application.exercici_string4.executor": "Run",
+    "Application.exercici_strings.executor": "Run",
+    "Application.exercici_strings2.executor": "Run",
+    "Application.exercici_strings3.executor": "Run",
+    "Application.exercici_strings5.executor": "Run",
+    "Application.exercicis_strings3.executor": "Run",
+    "Application.exercicis_strings4.executor": "Run",
+    "Application.lect.executor": "Run",
+    "Application.lectura2025.executor": "Run",
+    "Application.operador.executor": "Run",
+    "Application.vecto_problema1.executor": "Run",
+    "Application.vecto_problema2.executor": "Run",
+    "Maven.FirstProject [deploy].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ToolWindow.Build.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/home/pc-801/IdeaProjects/FirstProject/target",
+    "last_opened_file_path": "/home/pc-801/IdeaProjects/FirstProject/Projectes_MP0485_2025_2026",
+    "onboarding.tips.debug.path": "/home/pc-801/IdeaProjects/FirstProject/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Problema1">
+    <configuration name="Problema1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-25 (2)" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exercicis_classe.Vectors_llistes.Problema1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicis_classe.Vectors_llistes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problema8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicis_classe.Problema8" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicis_classe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problema9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicis_classe.Problema9" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicis_classe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vecto_problema1" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exercicis_classe.Vectors_llistes.vecto_problema1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/java/exercicis_classe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicis_classe.Vectors_llistes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2" />
+    </configuration>
+    <configuration name="vecto_problema2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exercicis_classe.Vectors_llistes.vecto_problema2" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicis_classe.Vectors_llistes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.vecto_problema2" />
+      <item itemvalue="Application.vecto_problema1" />
+      <item itemvalue="Application.Problema1" />
+      <item itemvalue="Application.Problema9" />
+      <item itemvalue="Application.Problema8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Problema1" />
+        <item itemvalue="Application.vecto_problema1" />
+        <item itemvalue="Application.vecto_problema2" />
+        <item itemvalue="Application.Problema9" />
+        <item itemvalue="Application.Problema8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4e0dc4b-8ba2-459d-aff4-ab668a80a5f7" name="Changes" comment="" />
+      <created>1758184501145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758184501145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/NomVariable.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/joel/operador.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/ExpersioBooleanes.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/joel/exercici4.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Exercicis_Github/Problema_condicionals4.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Exercicis_Github/Problema_bucles5.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="27" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FirstProject$vecto_problema1.ic" NAME="vecto_problema1 Coverage Results" MODIFIED="1762455050775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>exercicis_classe.Vectors_llistes.*</FILTER>
+    </SUITE>
+  </component>
+</project>

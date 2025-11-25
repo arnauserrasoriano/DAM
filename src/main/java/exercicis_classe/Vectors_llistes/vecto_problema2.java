@@ -12,7 +12,7 @@ public class vecto_problema2 {
         String[] paraules = new String[k];
         for(int i=0;i< paraules.length;i++){
             paraules[i] = sc.nextLine();
-            }
+        }
         int p = Integer.parseInt(sc.nextLine()) -1;
 
         System.out.println(paraules[p]);
