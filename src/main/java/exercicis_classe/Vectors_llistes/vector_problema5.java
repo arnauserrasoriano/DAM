@@ -13,6 +13,7 @@ public class vector_problema5 {
                 System.out.print(num[i][j] + "\t");
 
             }
+            System.out.println();
 
         }
 

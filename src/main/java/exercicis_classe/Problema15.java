@@ -1,9 +1,9 @@
-package exercicis_classe.modul;
+package exercicis_classe;
 
 import java.util.Random;
 import java.util.Scanner;
 
-public class Problema1 {
+public class Problema15 {
     public static char retornaCaracter(){
         return (char)(new Random().nextInt('}'-' ' +1)+' ');
     }

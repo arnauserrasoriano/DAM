@@ -1,9 +1,9 @@
-package exercicis_classe.modul;
+package exercicis_classe;
 import java.util.Scanner;
 
-import static exercicis_classe.modul.Problema1.retornaCaracter;
+import static exercicis_classe.Problema15.retornaCaracter;
 
-public class Problema2 {
+public class Problema16 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int entrada = Integer.parseInt(sc.nextLine());
