@@ -39,6 +39,7 @@ public class joc_cadires {
 
                     }
 
+
                 } else if (entrada[0].equals("IN")) {
                     int posOrig = -1;
                     boolean esta = false;
