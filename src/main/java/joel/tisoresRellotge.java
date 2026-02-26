@@ -21,6 +21,7 @@ public class tisoresRellotge {
                     break;
                 }
             }
+
             if (pos == -1) {
                 noms[n] = nom;
                 punts[n] = 0;

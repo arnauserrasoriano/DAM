@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4e0dc4b-8ba2-459d-aff4-ab668a80a5f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="250" />
+    <option name="cachedIndexableFilesCount" value="251" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,7 +109,7 @@
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;/home/pc-801/IdeaProjects/FirstProject/target&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/hdvng/DAM&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hdvng/pt4_todolist_enunciat&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -201,11 +199,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Problema1" />
       <item itemvalue="Application.disesenyador_tanqus" />
       <item itemvalue="Application.hackeigProfessor" />
-      <item itemvalue="Application.vecto_problema2" />
       <item itemvalue="Application.vecto_problema1" />
-      <item itemvalue="Application.Problema1" />
+      <item itemvalue="Application.vecto_problema2" />
     </list>
     <recent_temporary>
       <list>
@@ -235,6 +233,14 @@
       <workItem from="1771400158487" duration="4606000" />
       <workItem from="1771458360096" duration="874000" />
       <workItem from="1771571738083" duration="1186000" />
+      <workItem from="1771631130269" duration="1486000" />
+      <workItem from="1771684003279" duration="80000" />
+      <workItem from="1771686281053" duration="8000" />
+      <workItem from="1771687391636" duration="7000" />
+      <workItem from="1771774526723" duration="20000" />
+      <workItem from="1771777051418" duration="7000" />
+      <workItem from="1771777114615" duration="10000" />
+      <workItem from="1771777227369" duration="16000" />
     </task>
     <servers />
   </component>
