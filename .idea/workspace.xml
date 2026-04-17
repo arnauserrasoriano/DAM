@@ -34,6 +34,9 @@
     <commands />
     <urls />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -93,6 +96,7 @@
     &quot;Application.lect.executor&quot;: &quot;Run&quot;,
     &quot;Application.lectura2025.executor&quot;: &quot;Run&quot;,
     &quot;Application.operador.executor&quot;: &quot;Run&quot;,
+    &quot;Application.piramide.executor&quot;: &quot;Run&quot;,
     &quot;Application.vecto_problema1.executor&quot;: &quot;Run&quot;,
     &quot;Application.vecto_problema2.executor&quot;: &quot;Run&quot;,
     &quot;Maven.FirstProject [deploy].executor&quot;: &quot;Run&quot;,
@@ -104,12 +108,13 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ToolWindow.Build.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_directory_selection&quot;: &quot;/home/pc-801/IdeaProjects/FirstProject/target&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/pc801/DAM&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/pc801/projecte-jdbc-pr2-arnauserrasoriano&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -129,7 +134,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.disesenyador_tanqus">
+  <component name="RunManager" selected="Application.piramide">
     <configuration name="Problema1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-25 (2)" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -170,6 +175,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="piramide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="joel.piramide" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="joel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="vecto_problema1" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="25" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -183,42 +201,27 @@
       </extension>
       <method v="2" />
     </configuration>
-    <configuration name="vecto_problema2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-25" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="exercicis_classe.Vectors_llistes.vecto_problema2" />
-      <module name="FirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicis_classe.Vectors_llistes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.piramide" />
       <item itemvalue="Application.Problema1" />
       <item itemvalue="Application.disesenyador_tanqus" />
       <item itemvalue="Application.hackeigProfessor" />
       <item itemvalue="Application.vecto_problema1" />
-      <item itemvalue="Application.vecto_problema2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.piramide" />
         <item itemvalue="Application.disesenyador_tanqus" />
         <item itemvalue="Application.hackeigProfessor" />
         <item itemvalue="Application.Problema1" />
         <item itemvalue="Application.vecto_problema1" />
-        <item itemvalue="Application.vecto_problema2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
       </set>
     </attachedChunks>
   </component>

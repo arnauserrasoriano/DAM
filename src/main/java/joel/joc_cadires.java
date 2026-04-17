@@ -57,7 +57,6 @@ public class joc_cadires {
                             break;
                         }
                     }
-
                     int posInsert = temp.length;
 
                     for (int i = 0; i < temp.length; i++) {
@@ -68,7 +67,6 @@ public class joc_cadires {
                                 posTempOrig = j;
                                 break;
                             }
-
                         }
                         if (posTempOrig > posOrig) {
                             posInsert = i;

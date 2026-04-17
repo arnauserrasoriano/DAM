@@ -10,7 +10,6 @@ public class ciutat_plana {
         while (numCasos-- > 0) {
             int segonNum = Integer.parseInt(sc.nextLine());
             String[] numero = sc.nextLine().split(" ");
-            long[] stack = new long[segonNum];
             for (int i = 0; i < segonNum; i++) {
                 Long x = Long.parseLong(numero[i]);
                 long resultat = 0;
@@ -22,11 +21,8 @@ public class ciutat_plana {
                     }
                 }
                 System.out.print(resultat + " ");
-
             }
-
             System.out.println();
-
         }
         sc.close();
     }
