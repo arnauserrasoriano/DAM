@@ -3,7 +3,8 @@ package exercicis_classe.arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Problema4 {
+public class
+Problema4 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int numeroCasos = Integer.parseInt(sc.nextLine());
