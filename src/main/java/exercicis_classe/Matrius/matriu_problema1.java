@@ -23,5 +23,33 @@ public class matriu_problema1 {
 
 
 
+/*
+package exercicis_classe.Matrius;
 
+import java.io.IO;
+
+public class MatriuProblema1 {
+
+    public static void main(String[] args) {
+
+        final int SIZE = 5;
+
+        int[][] num = new int[SIZE][SIZE];
+
+        int valor = 0;
+
+        for (int i = 0; i < num.length; i++) {
+
+            for (int j = 0; j < num[i].length; j++) {
+
+                num[i][j] = valor++;
+
+                IO.print(num[i][j] + "\t");
+            }
+
+            IO.println();
+        }
+    }
+}
+ */
 

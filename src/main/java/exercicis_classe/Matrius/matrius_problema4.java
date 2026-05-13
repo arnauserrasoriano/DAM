@@ -23,7 +23,37 @@ public class matrius_problema4 {
 }
 
 
+/*
+package exercicis_classe.Matrius;
 
+import java.io.IO;
+
+public class MatriusProblema4 {
+
+    public static void main(String[] args) {
+
+        final int SIZE = 5;
+
+        char[][] num = new char[SIZE][SIZE];
+
+        String valor = "abcdefghijklmnopqrstuvwxy";
+
+        int k = 0;
+
+        for (int i = 0; i < num.length; i++) {
+
+            for (int j = 0; j < num[i].length; j++) {
+
+                num[i][j] = valor.charAt(k++);
+
+                IO.print(num[i][j] + "\t");
+            }
+
+            IO.println();
+        }
+    }
+}
+ */
 
 
 
