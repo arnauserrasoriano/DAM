@@ -61,3 +61,84 @@ class Problema5 {
 }
 
 
+/*
+package exercicis_classe;
+
+import java.io.IO;
+
+public class Problema5 {
+
+    public static void main(String[] args) {
+
+        int comptU = 0;
+
+        StringBuilder text = new StringBuilder();
+        StringBuilder text2 = new StringBuilder();
+
+        int salts = 0;
+
+        // Llegir frases
+        while (true) {
+
+            IO.println("Posa una frase: ");
+
+            var entrada = IO.readln();
+
+            if (entrada.isBlank()) {
+
+                IO.println("Necesites posar un caracter no buit!!");
+                continue;
+            }
+
+            text.append(entrada).append('\n');
+            salts++;
+
+            if (entrada.endsWith(".")) {
+                break;
+            }
+        }
+
+        // Eliminar espais i punts
+        for (int j = 0; j < text.length(); j++) {
+
+            char c = text.charAt(j);
+
+            if (c != ' ' && c != '.') {
+                text2.append(c);
+            }
+        }
+
+        // Demanar lletra
+        String entrada2;
+
+        while (true) {
+
+            IO.println("Posa una lletra: ");
+
+            entrada2 = IO.readln();
+
+            if (!entrada2.isBlank()) {
+                break;
+            }
+
+            IO.println("Has de posar una lletra!");
+        }
+
+        char target = entrada2.charAt(0);
+
+        // Comptar coincidències
+        for (int i = 0; i < text2.length(); i++) {
+
+            if (text2.charAt(i) == target) {
+                comptU++;
+            }
+        }
+
+        int format = text2.length();
+
+        IO.println("Hi han " + format + " caracters");
+        IO.println("Hi han " + salts + " salts");
+        IO.println("Surt " + comptU + " vegades");
+    }
+}
+ */

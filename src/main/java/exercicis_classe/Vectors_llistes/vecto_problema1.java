@@ -22,5 +22,37 @@ public class vecto_problema1 {
 
         }
 
+
+        /*
+        package exercicis_classe.Vectors_llistes;
+
+import java.io.IO;
+
+public class VectorProblema1 {
+
+    public static void main(String[] args) {
+
+        int numCasos = Integer.parseInt(IO.readln());
+
+        // Llegir vector
+        var parts = IO.readln().split(" ");
+
+        while (numCasos-- > 0) {
+
+            int index = Integer.parseInt(IO.readln());
+
+            if (index >= 0 && index < parts.length) {
+
+                IO.println(parts[index]);
+
+            } else {
+
+                IO.println("Index fora de rang");
+            }
+        }
+    }
+}
+         */
+
 }
 

@@ -38,3 +38,46 @@ public class Problema2 {
     }
 }
 
+/*
+package exercicis_classe.arrays;
+
+import java.io.IO;
+import java.util.Arrays;
+
+public class Problema2 {
+
+    public static void main(String[] args) {
+
+        int numCasos = Integer.parseInt(IO.readln());
+
+        String[] vec1 = new String[numCasos];
+        int[] vec2 = new int[numCasos];
+
+        // Llegir paraules/frases
+        for (int i = 0; i < vec1.length; i++) {
+
+            vec1[i] = IO.readln();
+        }
+
+        // Llegir lletra
+        char entrada2 = IO.readln().charAt(0);
+
+        // Comptar coincidències
+        for (int x = 0; x < vec1.length; x++) {
+
+            int comptador = 0;
+
+            for (int idx = 0; idx < vec1[x].length(); idx++) {
+
+                if (vec1[x].charAt(idx) == entrada2) {
+                    comptador++;
+                }
+            }
+
+            vec2[x] = comptador;
+        }
+
+        IO.println(Arrays.toString(vec2));
+    }
+}
+ */

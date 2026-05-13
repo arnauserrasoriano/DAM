@@ -39,3 +39,51 @@ class Problema4 {
 }
 
 
+/*
+import java.io.IO;
+
+public class Problema4 {
+
+    public static void main(String[] args) {
+
+        StringBuilder text = new StringBuilder();
+        StringBuilder text2 = new StringBuilder();
+
+        int salts = 0;
+
+        while (true) {
+
+            IO.println("Posa una frase: ");
+
+            var entrada = IO.readln();
+
+            if (entrada.isBlank()) {
+
+                IO.println("Necesites posar un caracter no buit!!");
+                continue;
+            }
+
+            text.append(entrada).append('\n');
+            salts++;
+
+            if (entrada.endsWith(".")) {
+                break;
+            }
+        }
+
+        for (int j = 0; j < text.length(); j++) {
+
+            char c = text.charAt(j);
+
+            if (c != ' ' && c != '.') {
+                text2.append(c);
+            }
+        }
+
+        int format = text2.length();
+
+        IO.println("Hi han " + format + " caracters");
+        IO.println("Hi han " + salts + " salts");
+    }
+}
+ */

@@ -51,5 +51,65 @@ class Problema6 {
     }
 }
 
+/*
+package exercicis_classe;
+
+import java.io.IO;
+
+public class Problema6 {
+
+    public static void main(String[] args) {
+
+        int compt = 0;
+
+        StringBuilder text = new StringBuilder();
+
+        int salts = 0;
+
+        // Llegir frases
+        while (true) {
+
+            IO.println("Posa una frase: ");
+
+            var entrada = IO.readln();
+
+            if (entrada.isBlank()) {
+
+                IO.println("Necesites posar un caracter no buit!!");
+                continue;
+            }
+
+            text.append(entrada).append('\n');
+            salts++;
+
+            if (entrada.endsWith(".")) {
+                break;
+            }
+        }
+
+        // Comptar paraules
+        boolean dinsParaula = false;
+
+        for (int i = 0; i < text.length(); i++) {
+
+            char c = text.charAt(i);
+
+            if (c != ' ' && c != '\n' && c != '.') {
+
+                if (!dinsParaula) {
+                    compt++;
+                    dinsParaula = true;
+                }
+
+            } else {
+                dinsParaula = false;
+            }
+        }
+
+        IO.println("Hi han " + compt + " paraules");
+        IO.println("Hi han " + salts + " salts");
+    }
+}
+ */
 
 

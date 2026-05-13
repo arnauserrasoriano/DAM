@@ -15,9 +15,6 @@ public class vecto_problema2 {
         }
         int p = Integer.parseInt(sc.nextLine()) -1;
 
-        System.out.println(paraules[p]);
-
-
         }
     }
 
